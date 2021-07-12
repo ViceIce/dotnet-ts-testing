@@ -13,7 +13,7 @@
         <PackageReference Include="JavaScriptEngineSwitcher.ChakraCore.Native.osx-x64" Version="3.9.1" />
         <PackageReference Include="JavaScriptEngineSwitcher.ChakraCore.Native.win-x64" Version="3.9.1" />
         <PackageReference Include="Jint" Version="3.0.0-beta-2032" />
-        <PackageReference Include="Jurassic" Version="3.1.0" />
+        <PackageReference Include="Jurassic" Version="3.2.2" />
         <PackageReference Include="Microsoft.ClearScript" Version="7.1.4" />
         <PackageReference Include="NiL.JS.NetCore" Version="2.5.1419" />
     </ItemGroup>
